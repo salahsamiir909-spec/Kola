@@ -1,0 +1,129 @@
+Product_Key,Product_Name,Brand,Sub_Category,Flavor,Unit_Cost,Standard_Price,Capacity_Litre,Weight_Kg,Shelf_Life_Days
+1,Shams-Cola Mango 1L,Shams-Cola,PET,Mango,18,25,1.0,12.5,180
+2,Shams-Cola Mango 250ml,Shams-Cola,Glass,Mango,9,15,0.25,14.0,365
+3,Shams-Cola Mango 2L,Shams-Cola,PET,Mango,22,30,2.0,13.0,365
+4,Shams-Cola Mango 330ml,Shams-Cola,Can,Mango,10,15,0.33,8.5,365
+5,Shams-Cola Zero Cola 250ml,Shams-Cola,Glass,Zero Cola,9,15,0.25,14.0,180
+6,Shams-Cola Zero Cola 2L,Shams-Cola,PET,Zero Cola,22,30,2.0,13.0,365
+7,Shams-Cola Zero Cola 330ml,Shams-Cola,Can,Zero Cola,10,15,0.33,8.5,365
+8,Shams-Cola Cola 330ml,Shams-Cola,Can,Cola,10,15,0.33,8.5,365
+9,Shams-Cola Cola 250ml,Shams-Cola,Glass,Cola,9,15,0.25,14.0,365
+10,Shams-Cola Cola 2L,Shams-Cola,PET,Cola,22,30,2.0,13.0,180
+11,Shams-Cola Cola 500ml,Shams-Cola,PET,Cola,12,18,0.5,10.0,365
+12,Pepsi Mango 1L,Pepsi,PET,Mango,18,25,1.0,12.5,180
+13,Pepsi Mango 330ml,Pepsi,Can,Mango,10,15,0.33,8.5,180
+14,Pepsi Mango 500ml,Pepsi,PET,Mango,12,18,0.5,10.0,365
+15,Pepsi Mango 2L,Pepsi,PET,Mango,22,30,2.0,13.0,365
+16,Pepsi Diet Cola 500ml,Pepsi,PET,Diet Cola,12,18,0.5,10.0,365
+17,Pepsi Diet Cola 250ml,Pepsi,Glass,Diet Cola,9,15,0.25,14.0,365
+18,Pepsi Diet Cola 330ml,Pepsi,Can,Diet Cola,10,15,0.33,8.5,180
+19,Pepsi Diet Cola 1L,Pepsi,PET,Diet Cola,18,25,1.0,12.5,365
+20,Pepsi Lemon 250ml,Pepsi,Glass,Lemon,9,15,0.25,14.0,365
+21,Pepsi Lemon 330ml,Pepsi,Can,Lemon,10,15,0.33,8.5,180
+22,Pepsi Lemon 500ml,Pepsi,PET,Lemon,12,18,0.5,10.0,180
+23,Pepsi Lemon 1L,Pepsi,PET,Lemon,18,25,1.0,12.5,365
+24,Pepsi Lemon 2L,Pepsi,PET,Lemon,22,30,2.0,13.0,365
+25,Pepsi Orange 250ml,Pepsi,Glass,Orange,9,15,0.25,14.0,365
+26,Pepsi Orange 2L,Pepsi,PET,Orange,22,30,2.0,13.0,180
+27,Pepsi Cola 330ml,Pepsi,Can,Cola,10,15,0.33,8.5,180
+28,Pepsi Cola 2L,Pepsi,PET,Cola,22,30,2.0,13.0,365
+29,Pepsi Cola 1L,Pepsi,PET,Cola,18,25,1.0,12.5,365
+30,Pepsi Cola 250ml,Pepsi,Glass,Cola,9,15,0.25,14.0,365
+31,Pepsi Apple 2L,Pepsi,PET,Apple,22,30,2.0,13.0,365
+32,Pepsi Apple 1L,Pepsi,PET,Apple,18,25,1.0,12.5,180
+33,Pepsi Apple 500ml,Pepsi,PET,Apple,12,18,0.5,10.0,180
+34,Pepsi Apple 330ml,Pepsi,Can,Apple,10,15,0.33,8.5,180
+35,Pepsi Zero Cola 2L,Pepsi,PET,Zero Cola,22,30,2.0,13.0,180
+36,Pepsi Zero Cola 330ml,Pepsi,Can,Zero Cola,10,15,0.33,8.5,180
+37,Pepsi Zero Cola 250ml,Pepsi,Glass,Zero Cola,9,15,0.25,14.0,365
+38,Pepsi Zero Cola 1L,Pepsi,PET,Zero Cola,18,25,1.0,12.5,365
+39,Coca-Cola Diet Cola 330ml,Coca-Cola,Can,Diet Cola,10,15,0.33,8.5,180
+40,Coca-Cola Diet Cola 500ml,Coca-Cola,PET,Diet Cola,12,18,0.5,10.0,365
+41,Coca-Cola Cola 250ml,Coca-Cola,Glass,Cola,9,15,0.25,14.0,365
+42,Coca-Cola Cola 330ml,Coca-Cola,Can,Cola,10,15,0.33,8.5,180
+43,Coca-Cola Cola 2L,Coca-Cola,PET,Cola,22,30,2.0,13.0,365
+44,Coca-Cola Cola 1L,Coca-Cola,PET,Cola,18,25,1.0,12.5,180
+45,Coca-Cola Zero Cola 330ml,Coca-Cola,Can,Zero Cola,10,15,0.33,8.5,180
+46,Coca-Cola Zero Cola 250ml,Coca-Cola,Glass,Zero Cola,9,15,0.25,14.0,365
+47,Coca-Cola Zero Cola 2L,Coca-Cola,PET,Zero Cola,22,30,2.0,13.0,365
+48,Coca-Cola Zero Cola 1L,Coca-Cola,PET,Zero Cola,18,25,1.0,12.5,365
+49,Coca-Cola Mango 1L,Coca-Cola,PET,Mango,18,25,1.0,12.5,365
+50,Coca-Cola Mango 330ml,Coca-Cola,Can,Mango,10,15,0.33,8.5,365
+51,Coca-Cola Lemon 2L,Coca-Cola,PET,Lemon,22,30,2.0,13.0,365
+52,Coca-Cola Lemon 250ml,Coca-Cola,Glass,Lemon,9,15,0.25,14.0,365
+53,Coca-Cola Orange 1L,Coca-Cola,PET,Orange,18,25,1.0,12.5,365
+54,Coca-Cola Orange 2L,Coca-Cola,PET,Orange,22,30,2.0,13.0,180
+55,Coca-Cola Apple 500ml,Coca-Cola,PET,Apple,12,18,0.5,10.0,180
+56,Coca-Cola Apple 250ml,Coca-Cola,Glass,Apple,9,15,0.25,14.0,365
+57,Coca-Cola Apple 1L,Coca-Cola,PET,Apple,18,25,1.0,12.5,180
+58,Coca-Cola Apple 2L,Coca-Cola,PET,Apple,22,30,2.0,13.0,180
+59,Big Cola Diet Cola 500ml,Big Cola,PET,Diet Cola,12,18,0.5,10.0,180
+60,Big Cola Diet Cola 2L,Big Cola,PET,Diet Cola,22,30,2.0,13.0,180
+61,Big Cola Diet Cola 330ml,Big Cola,Can,Diet Cola,10,15,0.33,8.5,365
+62,Big Cola Diet Cola 250ml,Big Cola,Glass,Diet Cola,9,15,0.25,14.0,180
+63,Big Cola Lemon 250ml,Big Cola,Glass,Lemon,9,15,0.25,14.0,365
+64,Big Cola Lemon 1L,Big Cola,PET,Lemon,18,25,1.0,12.5,180
+65,Big Cola Zero Cola 500ml,Big Cola,PET,Zero Cola,12,18,0.5,10.0,180
+66,Big Cola Zero Cola 330ml,Big Cola,Can,Zero Cola,10,15,0.33,8.5,180
+67,Spiro Spathis Cola 330ml,Spiro Spathis,Can,Cola,10,15,0.33,8.5,365
+68,Spiro Spathis Cola 250ml,Spiro Spathis,Glass,Cola,9,15,0.25,14.0,180
+69,Spiro Spathis Cola 500ml,Spiro Spathis,PET,Cola,12,18,0.5,10.0,180
+70,Spiro Spathis Cola 2L,Spiro Spathis,PET,Cola,22,30,2.0,13.0,180
+71,Spiro Spathis Diet Cola 1L,Spiro Spathis,PET,Diet Cola,18,25,1.0,12.5,365
+72,Spiro Spathis Diet Cola 250ml,Spiro Spathis,Glass,Diet Cola,9,15,0.25,14.0,365
+73,Spiro Spathis Diet Cola 330ml,Spiro Spathis,Can,Diet Cola,10,15,0.33,8.5,365
+74,Spiro Spathis Zero Cola 250ml,Spiro Spathis,Glass,Zero Cola,9,15,0.25,14.0,180
+75,Spiro Spathis Zero Cola 1L,Spiro Spathis,PET,Zero Cola,18,25,1.0,12.5,365
+76,Spiro Spathis Zero Cola 330ml,Spiro Spathis,Can,Zero Cola,10,15,0.33,8.5,180
+77,Spiro Spathis Zero Cola 500ml,Spiro Spathis,PET,Zero Cola,12,18,0.5,10.0,180
+78,Spiro Spathis Zero Cola 2L,Spiro Spathis,PET,Zero Cola,22,30,2.0,13.0,365
+79,V7 Lemon 2L,V7,PET,Lemon,22,30,2.0,13.0,365
+80,V7 Lemon 1L,V7,PET,Lemon,18,25,1.0,12.5,180
+81,V7 Lemon 330ml,V7,Can,Lemon,10,15,0.33,8.5,180
+82,V7 Zero Cola 1L,V7,PET,Zero Cola,18,25,1.0,12.5,365
+83,V7 Zero Cola 500ml,V7,PET,Zero Cola,12,18,0.5,10.0,365
+84,V7 Zero Cola 330ml,V7,Can,Zero Cola,10,15,0.33,8.5,365
+85,V7 Zero Cola 250ml,V7,Glass,Zero Cola,9,15,0.25,14.0,180
+86,V7 Apple 1L,V7,PET,Apple,18,25,1.0,12.5,365
+87,V7 Apple 330ml,V7,Can,Apple,10,15,0.33,8.5,365
+88,V7 Apple 2L,V7,PET,Apple,22,30,2.0,13.0,180
+89,V7 Apple 250ml,V7,Glass,Apple,9,15,0.25,14.0,180
+90,V7 Diet Cola 330ml,V7,Can,Diet Cola,10,15,0.33,8.5,180
+91,V7 Diet Cola 500ml,V7,PET,Diet Cola,12,18,0.5,10.0,365
+92,V7 Mango 330ml,V7,Can,Mango,10,15,0.33,8.5,365
+93,V7 Mango 1L,V7,PET,Mango,18,25,1.0,12.5,365
+94,V7 Mango 500ml,V7,PET,Mango,12,18,0.5,10.0,180
+95,V7 Mango 250ml,V7,Glass,Mango,9,15,0.25,14.0,365
+96,V7 Mango 2L,V7,PET,Mango,22,30,2.0,13.0,365
+97,V7 Cola 1L,V7,PET,Cola,18,25,1.0,12.5,180
+98,V7 Cola 330ml,V7,Can,Cola,10,15,0.33,8.5,365
+99,V7 Cola 250ml,V7,Glass,Cola,9,15,0.25,14.0,180
+100,V7 Cola 500ml,V7,PET,Cola,12,18,0.5,10.0,365
+101,V7 Orange 1L,V7,PET,Orange,18,25,1.0,12.5,365
+102,V7 Orange 250ml,V7,Glass,Orange,9,15,0.25,14.0,365
+103,V7 Orange 330ml,V7,Can,Orange,10,15,0.33,8.5,180
+104,V7 Orange 2L,V7,PET,Orange,22,30,2.0,13.0,365
+105,Sina Cola Lemon 330ml,Sina Cola,Can,Lemon,10,15,0.33,8.5,365
+106,Sina Cola Lemon 500ml,Sina Cola,PET,Lemon,12,18,0.5,10.0,180
+107,Sina Cola Cola 500ml,Sina Cola,PET,Cola,12,18,0.5,10.0,365
+108,Sina Cola Cola 2L,Sina Cola,PET,Cola,22,30,2.0,13.0,180
+109,Sina Cola Mango 1L,Sina Cola,PET,Mango,18,25,1.0,12.5,365
+110,Sina Cola Mango 2L,Sina Cola,PET,Mango,22,30,2.0,13.0,180
+111,Sina Cola Mango 330ml,Sina Cola,Can,Mango,10,15,0.33,8.5,180
+112,Sina Cola Orange 1L,Sina Cola,PET,Orange,18,25,1.0,12.5,180
+113,Sina Cola Orange 250ml,Sina Cola,Glass,Orange,9,15,0.25,14.0,365
+114,Sina Cola Orange 2L,Sina Cola,PET,Orange,22,30,2.0,13.0,365
+115,Sina Cola Orange 500ml,Sina Cola,PET,Orange,12,18,0.5,10.0,365
+116,Sina Cola Zero Cola 500ml,Sina Cola,PET,Zero Cola,12,18,0.5,10.0,180
+117,Sina Cola Zero Cola 2L,Sina Cola,PET,Zero Cola,22,30,2.0,13.0,365
+118,Sina Cola Zero Cola 250ml,Sina Cola,Glass,Zero Cola,9,15,0.25,14.0,180
+119,Sina Cola Apple 250ml,Sina Cola,Glass,Apple,9,15,0.25,14.0,365
+120,Sina Cola Apple 1L,Sina Cola,PET,Apple,18,25,1.0,12.5,365
+121,Sina Cola Apple 330ml,Sina Cola,Can,Apple,10,15,0.33,8.5,180
+122,Sina Cola Apple 500ml,Sina Cola,PET,Apple,12,18,0.5,10.0,180
+123,Sina Cola Apple 2L,Sina Cola,PET,Apple,22,30,2.0,13.0,180
+124,Sina Cola Diet Cola 250ml,Sina Cola,Glass,Diet Cola,9,15,0.25,14.0,180
+125,Sina Cola Diet Cola 500ml,Sina Cola,PET,Diet Cola,12,18,0.5,10.0,180
+126,Sina Cola Diet Cola 330ml,Sina Cola,Can,Diet Cola,10,15,0.33,8.5,365
+127,Sina Cola Diet Cola 2L,Sina Cola,PET,Diet Cola,22,30,2.0,13.0,365
+128,Sina Cola Diet Cola 1L,Sina Cola,PET,Diet Cola,18,25,1.0,12.5,365

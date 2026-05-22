@@ -1,0 +1,36 @@
+Region_Key,Province,City,Territory,Population_Density,Warehouse_Name
+1,Cairo,Nasr City,Greater Cairo,High,Cairo Central WH
+2,Cairo,Maadi,Greater Cairo,High,Cairo Central WH
+3,Cairo,Heliopolis,Greater Cairo,Medium,Cairo Central WH
+4,Cairo,New Cairo,Greater Cairo,High,Cairo Central WH
+5,Giza,6th of October,Greater Cairo,High,Giza Central WH
+6,Giza,Dokki,Greater Cairo,Low,Giza Central WH
+7,Giza,Mohandeseen,Greater Cairo,Low,Giza Central WH
+8,Giza,Sheikh Zayed,Greater Cairo,High,Giza Central WH
+9,Alexandria,Raml,Coastal,High,Alexandria Central WH
+10,Alexandria,Montaza,Coastal,Medium,Alexandria Central WH
+11,Alexandria,Smouha,Coastal,Low,Alexandria Central WH
+12,Alexandria,Borg El Arab,Coastal,High,Alexandria Central WH
+13,Dakahlia,Mansoura,Delta,Low,Dakahlia Central WH
+14,Dakahlia,Talkha,Delta,Low,Dakahlia Central WH
+15,Dakahlia,Mit Ghamr,Delta,Medium,Dakahlia Central WH
+16,Gharbia,Tanta,Delta,Low,Gharbia Central WH
+17,Gharbia,Mahalla,Delta,Low,Gharbia Central WH
+18,Gharbia,Zifta,Delta,High,Gharbia Central WH
+19,Sharkia,Zagazig,Delta,Medium,Sharkia Central WH
+20,Sharkia,10th of Ramadan,Delta,High,Sharkia Central WH
+21,Sharkia,Belbeis,Delta,High,Sharkia Central WH
+22,Qalyubia,Banha,Greater Cairo,Low,Qalyubia Central WH
+23,Qalyubia,Shubra,Greater Cairo,Medium,Qalyubia Central WH
+24,Qalyubia,Obour,Greater Cairo,Medium,Qalyubia Central WH
+25,Minya,Minya City,Upper Egypt,Medium,Minya Central WH
+26,Minya,Mallawi,Upper Egypt,Low,Minya Central WH
+27,Minya,Maghagha,Upper Egypt,High,Minya Central WH
+28,Assiut,Assiut City,Upper Egypt,Medium,Assiut Central WH
+29,Assiut,Dairut,Upper Egypt,Medium,Assiut Central WH
+30,Assiut,Manfalut,Upper Egypt,High,Assiut Central WH
+31,Red Sea,Hurghada,Coastal,Medium,Red Sea Central WH
+32,Red Sea,Safaga,Coastal,Low,Red Sea Central WH
+33,Red Sea,El Gouna,Coastal,Medium,Red Sea Central WH
+34,South Sinai,Sharm El Sheikh,Coastal,Medium,South Sinai Central WH
+35,South Sinai,Dahab,Coastal,Medium,South Sinai Central WH

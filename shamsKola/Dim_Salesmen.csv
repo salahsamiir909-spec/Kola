@@ -1,0 +1,251 @@
+Salesman_Key,Salesman_Name,Supervisor_Name,Position,Commission_Rate,Hiring_Date,Sales_Tool
+1,Bryan Wilson,Jay Gonzalez,Pre-Seller,0.044,2021-09-03,Mobile App
+2,Brian Dawson,Kevin Mills,Key Account Manager,0.039,2019-12-09,Manual Paper
+3,Jessica Moore,Kristine Herman,Pre-Seller,0.026,2020-09-02,Handheld PDA
+4,Mark Harper,Louis Keller,Pre-Seller,0.024,2021-12-23,Manual Paper
+5,Stacey Ward,Ryan Foster,Key Account Manager,0.014,2022-11-08,Handheld PDA
+6,Jerry Barajas,Nicole Clements,Key Account Manager,0.027,2021-03-03,Manual Paper
+7,Alexa Matthews,Lisa Lewis,Pre-Seller,0.048,2021-08-03,Manual Paper
+8,Paul Gilmore,Phillip Graves,Pre-Seller,0.019,2021-05-18,Mobile App
+9,Ryan Mitchell PhD,Cassandra Griffin,Van-Seller,0.04,2019-08-23,Manual Paper
+10,Christine Davis,Stephen Campbell,Key Account Manager,0.039,2019-05-19,Mobile App
+11,Paige Rodriguez,Angelica Potter,Pre-Seller,0.012,2021-02-22,Manual Paper
+12,Amanda Clark,Jason Cook,Van-Seller,0.016,2019-05-01,Handheld PDA
+13,Ryan Greene,Benjamin Cruz,Van-Seller,0.036,2019-03-08,Manual Paper
+14,Melissa Clark,Heather Barber,Pre-Seller,0.042,2021-03-22,Mobile App
+15,Ashley Mason,,Pre-Seller,0.053,2020-01-10,Manual Paper
+16,Kristin Banks,Danielle Daniels,Key Account Manager,0.021,2020-04-24,Manual Paper
+17,Stacie Bowen,Wesley Spencer,Van-Seller,0.052,2019-11-19,Mobile App
+18,Shawn Weeks,Alan Armstrong,Pre-Seller,0.022,2019-02-24,Manual Paper
+19,Joann Aguirre MD,Tina Perry,Key Account Manager,0.054,2021-01-21,Handheld PDA
+20,Richard Mcdaniel,Cindy Brooks,Van-Seller,0.033,2022-05-20,Manual Paper
+21,Tammy Wilkinson,Jesse Taylor,Van-Seller,0.032,2019-10-30,Mobile App
+22,Jennifer Snyder,Sarah Williams,Key Account Manager,0.05,2019-06-26,Mobile App
+23,Brooke Evans,Gabriel Green MD,Key Account Manager,0.015,2021-09-13,Manual Paper
+24,Natasha Barber MD,Sharon Lee,Key Account Manager,0.019,2020-07-09,Handheld PDA
+25,Ashley Bradley,Crystal Cuevas,Key Account Manager,0.032,2020-07-09,Handheld PDA
+26,Diana Brewer,Garrett Decker,Pre-Seller,0.035,2021-10-23,Mobile App
+27,Chris Harris,Tina Patterson,Van-Seller,0.021,2019-05-09,Manual Paper
+28,Bradley Wood,Jacob Coffey,Key Account Manager,0.015,2020-03-07,Manual Paper
+29,Debbie Joseph,Sharon Gomez,Key Account Manager,0.029,2020-10-05,Mobile App
+30,Danny Martinez,,Van-Seller,0.058,2022-01-12,Manual Paper
+31,Brooke Hubbard,Robert Clark,Key Account Manager,0.051,2018-12-18,Mobile App
+32,Brittney Thompson,Jeffery Franklin,Van-Seller,0.023,2022-07-28,Handheld PDA
+33,Gregory Galloway,Anthony Garcia,Pre-Seller,0.049,2020-02-10,Mobile App
+34,Ashley Long,Ricky Smith,Van-Seller,0.046,2018-12-20,Manual Paper
+35,Shelley Brown,Sandra Garcia,Pre-Seller,0.033,2020-06-28,Manual Paper
+36,George Lopez,Brandy Price,Pre-Seller,0.019,2020-11-20,Handheld PDA
+37,Crystal Little,Joseph Reese,Van-Seller,0.054,2020-07-22,Manual Paper
+38,Larry Garcia,Jodi Jenkins,Key Account Manager,0.011,2019-09-09,Handheld PDA
+39,Eric Huffman,Cameron Morales,Pre-Seller,0.055,2019-11-13,Mobile App
+40,Samantha Valenzuela,Laurie Wells,Pre-Seller,0.034,2020-01-22,Manual Paper
+41,Juan Holmes,Dustin Mcguire,Pre-Seller,0.05,2021-05-12,Manual Paper
+42,Mark Carroll,John Arroyo,Pre-Seller,0.028,2022-05-17,Handheld PDA
+43,Daniel Thomas,Jennifer Lee,Van-Seller,0.058,2019-12-20,Manual Paper
+44,Adam Patterson,Shawn Hill,Van-Seller,0.046,2021-04-21,Manual Paper
+45,Natalie Rice,,Key Account Manager,0.019,2020-12-11,Mobile App
+46,Connie Lowe,Lisa Ryan,Van-Seller,0.034,2020-05-18,Mobile App
+47,James Kennedy,Robert Wilkinson,Key Account Manager,0.029,2019-11-09,Mobile App
+48,Timothy Davis,Samuel Perez,Key Account Manager,0.024,2022-11-12,Manual Paper
+49,Anna Mcdowell,Stephanie Reed,Key Account Manager,0.025,2020-12-14,Handheld PDA
+50,Kayla Grant,Kimberly Leon,Key Account Manager,0.038,2021-04-16,Mobile App
+51,Diana Anderson,Tina Park,Van-Seller,0.016,2021-09-19,Mobile App
+52,James Fisher,Charles Beck,Pre-Seller,0.035,2020-07-11,Mobile App
+53,Caroline Miller,James Anderson,Key Account Manager,0.013,2022-06-19,Manual Paper
+54,Becky Stephens,Jacob Conway,Pre-Seller,0.026,2020-01-01,Manual Paper
+55,Brett Allen,Kari Martinez,Van-Seller,0.011,2022-06-29,Handheld PDA
+56,Lonnie Olsen,Andrew Duffy,Pre-Seller,0.014,2022-07-08,Handheld PDA
+57,Paul Larsen,Haley Bell,Pre-Seller,0.05,2019-05-31,Manual Paper
+58,Michelle Sutton,Lindsay Wilson,Pre-Seller,0.035,2022-10-14,Mobile App
+59,Melissa Holden,Alyssa Vasquez,Key Account Manager,0.057,2020-04-30,Manual Paper
+60,Bryan Palmer,,Van-Seller,0.01,2019-06-30,Manual Paper
+61,Erik Fletcher,Douglas Bailey,Van-Seller,0.02,2022-06-28,Mobile App
+62,Christine Wheeler,Steven Fernandez,Pre-Seller,0.038,2021-11-26,Manual Paper
+63,Lori Harris,Samantha Welch,Key Account Manager,0.02,2021-10-10,Manual Paper
+64,Sonya Cherry,Megan Munoz,Pre-Seller,0.023,2020-12-03,Handheld PDA
+65,Amber Burch,Christina Martinez,Key Account Manager,0.03,2022-07-18,Manual Paper
+66,Brenda Ruiz,Mark Young,Key Account Manager,0.02,2020-01-13,Handheld PDA
+67,Susan Clark,Kylie Ellis,Van-Seller,0.016,2021-08-28,Mobile App
+68,Kevin Lowe,Brian Torres,Van-Seller,0.039,2022-07-30,Manual Paper
+69,Brooke Walker,Christopher Williams,Key Account Manager,0.056,2020-08-15,Mobile App
+70,Katherine Cox,Tammy Henderson,Pre-Seller,0.012,2019-04-12,Mobile App
+71,Kathleen Brennan,Jason Armstrong,Van-Seller,0.036,2022-07-13,Handheld PDA
+72,Andrew Brown,Sabrina Wilson,Pre-Seller,0.014,2022-11-05,Mobile App
+73,Kimberly Smith,Ryan Rodriguez,Key Account Manager,0.059,2021-07-03,Mobile App
+74,Gene Henson,Rodney Lopez,Pre-Seller,0.039,2021-07-16,Handheld PDA
+75,Mary Acosta,,Pre-Seller,0.02,2019-09-14,Handheld PDA
+76,Tyler Gregory,Rebecca Wade,Key Account Manager,0.045,2020-01-23,Manual Paper
+77,Glenn Patton,Tyler Combs,Key Account Manager,0.023,2021-02-14,Handheld PDA
+78,Sergio King,Jason Johnson,Pre-Seller,0.033,2022-01-21,Handheld PDA
+79,Jennifer Matthews,Christopher Flores,Van-Seller,0.028,2019-05-07,Manual Paper
+80,Kristen Wood,Sarah Romero,Van-Seller,0.022,2019-06-06,Mobile App
+81,Kelly Barr,Randy King,Key Account Manager,0.011,2021-03-02,Handheld PDA
+82,Tracy Nguyen,David Middleton,Van-Seller,0.052,2018-12-31,Manual Paper
+83,Sara Cole,John Schroeder,Key Account Manager,0.028,2018-12-29,Mobile App
+84,Margaret Townsend,Jocelyn Green,Pre-Seller,0.048,2019-03-13,Manual Paper
+85,Gabriel Rose,Kimberly Aguilar,Key Account Manager,0.033,2019-12-20,Handheld PDA
+86,William Pham,Kim Morales,Pre-Seller,0.059,2019-10-04,Mobile App
+87,Jerry Walker,Adrian Flores,Pre-Seller,0.026,2021-11-21,Mobile App
+88,Jennifer Greene,Daniel Thompson,Key Account Manager,0.036,2021-06-17,Manual Paper
+89,Michael Perez,Christian Campbell,Van-Seller,0.048,2022-05-04,Manual Paper
+90,George Perez,,Pre-Seller,0.05,2021-05-03,Mobile App
+91,Jill Baker DVM,Ashley Robinson MD,Key Account Manager,0.054,2022-03-09,Mobile App
+92,Amy Jackson,Harry Young,Van-Seller,0.053,2020-04-08,Handheld PDA
+93,Deborah Pacheco,Jessica Rogers,Key Account Manager,0.014,2021-01-19,Mobile App
+94,Alyssa Stevens,Shane Cooper,Key Account Manager,0.06,2019-05-13,Handheld PDA
+95,Shawn Brown,Randy Wilson,Pre-Seller,0.059,2021-04-06,Manual Paper
+96,Anna Young,Stefanie Brown,Van-Seller,0.019,2020-06-18,Handheld PDA
+97,Jonathan Doyle,Cynthia Harris,Pre-Seller,0.054,2019-09-12,Handheld PDA
+98,Kevin May,Carlos Forbes,Pre-Seller,0.027,2020-02-29,Mobile App
+99,Pamela Pena,Courtney Spencer,Pre-Seller,0.037,2020-06-12,Manual Paper
+100,Michelle Olsen,Jake Hardin,Key Account Manager,0.019,2022-07-27,Handheld PDA
+101,Kimberly Cox,Scott Garcia,Van-Seller,0.036,2018-12-09,Mobile App
+102,Terry Butler,Mary Foster,Van-Seller,0.038,2020-11-07,Handheld PDA
+103,Eric Fletcher,Stephen Watson,Key Account Manager,0.03,2019-11-30,Mobile App
+104,Joseph French,Kara Weaver,Van-Seller,0.011,2019-10-09,Handheld PDA
+105,Crystal Welch,,Pre-Seller,0.05,2021-06-09,Handheld PDA
+106,Travis Short,Christopher Poole,Key Account Manager,0.046,2019-04-05,Manual Paper
+107,Kim Lozano,Lindsey Rowe,Key Account Manager,0.059,2022-04-30,Mobile App
+108,Sean Burgess,William Gutierrez,Pre-Seller,0.021,2021-12-19,Manual Paper
+109,Latasha Lopez,Steven Kline,Van-Seller,0.048,2019-03-09,Manual Paper
+110,Danny Stanley,Sharon Kelly,Pre-Seller,0.035,2018-11-25,Handheld PDA
+111,Victor Smith,Justin Henderson,Key Account Manager,0.041,2022-07-09,Handheld PDA
+112,Jose Ruiz,Natalie Bennett DVM,Pre-Seller,0.047,2019-11-15,Manual Paper
+113,Joseph Brooks,Cindy Smith,Key Account Manager,0.041,2021-12-18,Manual Paper
+114,Richard Daniel,Juan Parker,Key Account Manager,0.022,2019-01-29,Mobile App
+115,Mrs. Michelle Valdez,Amber Steele,Van-Seller,0.058,2019-07-24,Manual Paper
+116,Greg Castro,James King,Van-Seller,0.06,2021-05-14,Manual Paper
+117,Karen Yoder,Jennifer Oneal,Van-Seller,0.019,2021-06-06,Handheld PDA
+118,Curtis Watson,Thomas Watkins,Van-Seller,0.012,2019-06-11,Handheld PDA
+119,Juan Anderson,Brent Oneal,Van-Seller,0.027,2022-11-22,Manual Paper
+120,Barry Smith,,Pre-Seller,0.044,2022-12-17,Mobile App
+121,Samuel Rocha,Danny David,Pre-Seller,0.028,2022-08-02,Manual Paper
+122,Angela Garner,Steven Cox,Van-Seller,0.041,2019-10-02,Handheld PDA
+123,Veronica Sosa,Cheyenne Jones,Pre-Seller,0.055,2022-10-03,Manual Paper
+124,Andrea Green,Jeremiah Daniel PhD,Van-Seller,0.035,2020-08-30,Handheld PDA
+125,Ashlee Adams,Janice Hopkins,Pre-Seller,0.029,2020-04-05,Manual Paper
+126,Dr. Chad Stewart,Michelle Brown,Van-Seller,0.047,2021-06-10,Handheld PDA
+127,Amber Rivera,Amy Williams,Van-Seller,0.017,2018-12-18,Manual Paper
+128,Shawn Campbell,Keith Taylor,Van-Seller,0.04,2022-01-06,Handheld PDA
+129,Glenn Taylor,Jenna Sullivan,Key Account Manager,0.031,2022-01-14,Manual Paper
+130,Debra Garcia,Dennis Woodward,Pre-Seller,0.057,2022-06-28,Manual Paper
+131,John Carney,Amanda Anderson,Pre-Seller,0.05,2020-04-19,Mobile App
+132,Darrell Perry,Michael Robinson,Van-Seller,0.015,2020-09-25,Handheld PDA
+133,Lauren Nichols,Michelle Barry,Pre-Seller,0.022,2021-09-15,Manual Paper
+134,Brittany Carpenter,Ryan Glenn,Key Account Manager,0.012,2021-03-06,Mobile App
+135,William Hudson,,Van-Seller,0.02,2021-03-08,Mobile App
+136,Shane Burns,Patrick Smith,Key Account Manager,0.059,2021-08-27,Mobile App
+137,Chad Hines,Christina Lewis,Key Account Manager,0.022,2021-10-24,Handheld PDA
+138,Christopher Hall,Joseph Hobbs,Key Account Manager,0.024,2021-08-30,Handheld PDA
+139,Donald Ballard,Jeffrey Hernandez,Van-Seller,0.012,2021-03-19,Handheld PDA
+140,Angela Cochran,Timothy Mitchell,Key Account Manager,0.029,2022-05-11,Manual Paper
+141,Tonya Morse,Brandon Carroll,Key Account Manager,0.06,2019-11-11,Mobile App
+142,Kevin Cooper,Javier Arroyo,Van-Seller,0.042,2018-12-18,Mobile App
+143,Trevor Lutz,April Medina,Van-Seller,0.02,2022-07-26,Mobile App
+144,Maria Buckley,Angela Barnes,Key Account Manager,0.05,2019-06-02,Manual Paper
+145,Charles Payne,Valerie Carroll,Pre-Seller,0.056,2019-04-18,Manual Paper
+146,Pamela Howard,Reginald Garcia,Pre-Seller,0.021,2022-05-13,Manual Paper
+147,David Sanchez,Philip Briggs,Van-Seller,0.051,2020-03-01,Manual Paper
+148,Teresa Crawford,Jeff Green,Pre-Seller,0.029,2019-01-02,Mobile App
+149,Lauren Torres,David Carpenter,Pre-Seller,0.042,2019-05-25,Mobile App
+150,Hannah Thomas,,Van-Seller,0.041,2022-11-21,Manual Paper
+151,Thomas Bell,Steven Deleon,Pre-Seller,0.049,2022-03-09,Manual Paper
+152,Sheri Hawkins,Stephen Neal,Pre-Seller,0.054,2022-12-19,Manual Paper
+153,Marisa Glass,Joshua Turner,Key Account Manager,0.011,2021-08-29,Manual Paper
+154,Michelle Bray,Miguel Brown,Pre-Seller,0.023,2021-02-10,Mobile App
+155,David Hensley,Sue Hardy,Pre-Seller,0.015,2021-01-07,Mobile App
+156,Hannah Clark,David Baker,Pre-Seller,0.015,2020-09-08,Handheld PDA
+157,Jessica Allen,Mr. Kenneth Kaufman Jr.,Pre-Seller,0.03,2019-11-16,Handheld PDA
+158,Adam Ramirez,Tonya Galvan,Key Account Manager,0.057,2022-01-18,Handheld PDA
+159,Matthew James,John Blair,Key Account Manager,0.027,2020-10-01,Mobile App
+160,Jack Murphy,Melissa Cooper,Key Account Manager,0.032,2020-07-04,Mobile App
+161,Ricky Jenkins,Ashley Martin,Key Account Manager,0.042,2019-03-26,Manual Paper
+162,Brent Jackson,Shelley Hancock,Van-Seller,0.057,2019-09-28,Mobile App
+163,Jane Williamson,Pamela Adams,Key Account Manager,0.05,2018-12-27,Manual Paper
+164,Katherine Brewer,Marisa Brown,Van-Seller,0.027,2020-09-04,Manual Paper
+165,Jose Lewis,,Pre-Seller,0.015,2019-08-14,Handheld PDA
+166,Erica Dixon,Colleen Porter,Key Account Manager,0.059,2019-03-22,Mobile App
+167,Mrs. Katelyn Davis,Karen Reynolds,Pre-Seller,0.059,2021-04-10,Manual Paper
+168,Aaron Lopez,Kenneth Newton,Key Account Manager,0.033,2021-07-24,Handheld PDA
+169,Cassandra Chapman,Todd Mccarthy,Van-Seller,0.011,2019-07-01,Mobile App
+170,John Smith,Lisa Clark,Van-Seller,0.03,2021-12-06,Mobile App
+171,Colleen Price,Lisa Green,Van-Seller,0.026,2022-03-23,Handheld PDA
+172,Raven Walter,Vicki Perry,Key Account Manager,0.012,2018-12-03,Mobile App
+173,William Campbell,Rachel Carr,Key Account Manager,0.016,2022-09-16,Manual Paper
+174,Mary Long,Ms. Rachel Ramos MD,Pre-Seller,0.029,2022-12-22,Mobile App
+175,Dale Martin,Jennifer Harrison,Key Account Manager,0.038,2020-04-22,Manual Paper
+176,Melanie Heath,Cassandra Hudson,Key Account Manager,0.025,2019-09-25,Manual Paper
+177,Veronica Nichols,Jeffrey Sandoval,Key Account Manager,0.032,2020-11-05,Manual Paper
+178,Bruce Cortez,Lindsey Mendoza,Pre-Seller,0.052,2019-11-30,Mobile App
+179,Patrick Woods,Dominique Edwards,Van-Seller,0.041,2021-06-11,Handheld PDA
+180,Peter Kennedy,,Pre-Seller,0.035,2019-02-25,Mobile App
+181,Brianna Hebert,Michelle Bailey,Pre-Seller,0.015,2021-04-11,Mobile App
+182,Margaret Hunter,Stephanie Blair,Van-Seller,0.022,2019-04-15,Handheld PDA
+183,Shelly Weber,Joseph Neal,Pre-Seller,0.022,2022-02-05,Handheld PDA
+184,Kevin Jones,Joseph Watkins,Van-Seller,0.028,2020-11-16,Handheld PDA
+185,Sandra Davis,Rodney Martinez,Van-Seller,0.037,2022-09-19,Handheld PDA
+186,Melissa Hobbs,Carrie Harris,Van-Seller,0.035,2021-10-22,Manual Paper
+187,Ethan Garcia,Edward Wilkinson,Pre-Seller,0.018,2022-06-25,Manual Paper
+188,Jennifer Smith,Anita Rodriguez,Key Account Manager,0.046,2022-08-24,Mobile App
+189,Jessica Frey,Christine Ellis,Van-Seller,0.029,2019-10-31,Mobile App
+190,Curtis Baker,Cheryl Olson,Pre-Seller,0.014,2019-07-26,Handheld PDA
+191,Crystal Harris,Erica Ferrell,Pre-Seller,0.024,2020-10-22,Handheld PDA
+192,Stacy Cox,Diane Kelley,Van-Seller,0.043,2019-07-10,Mobile App
+193,Lance Chang,Bryan Walton,Van-Seller,0.043,2019-05-16,Mobile App
+194,Robert Serrano,Patricia Heath,Key Account Manager,0.013,2020-07-06,Manual Paper
+195,Lori Morales,,Key Account Manager,0.021,2022-10-25,Manual Paper
+196,Jessica Taylor,Steven Weaver,Pre-Seller,0.02,2021-11-15,Manual Paper
+197,Stacy Graham,Denise Stevenson,Pre-Seller,0.046,2022-09-22,Manual Paper
+198,Emily Bryant,Terry Parker,Pre-Seller,0.042,2019-07-06,Mobile App
+199,Amber Butler,Brianna Pollard,Pre-Seller,0.012,2021-02-25,Manual Paper
+200,Marc Robinson,Stephen Ramirez,Key Account Manager,0.038,2022-09-06,Handheld PDA
+201,Susan Hill,David Johnson,Pre-Seller,0.024,2022-09-29,Mobile App
+202,Laura Lawson,Angela Hampton,Pre-Seller,0.014,2020-06-07,Handheld PDA
+203,David Clarke,Karl Knight,Key Account Manager,0.024,2022-11-27,Manual Paper
+204,Jorge Crosby,Lawrence Day,Van-Seller,0.046,2019-12-19,Manual Paper
+205,Emily Williams,Cindy Evans,Van-Seller,0.031,2021-07-08,Mobile App
+206,Jeffrey Jensen,Kathleen Carson,Van-Seller,0.041,2022-10-25,Handheld PDA
+207,Sheila Nelson,Cynthia Ray,Pre-Seller,0.013,2022-08-30,Handheld PDA
+208,Matthew Mcdonald,Vanessa Anderson,Pre-Seller,0.01,2019-06-24,Manual Paper
+209,James Chandler,Karen Willis,Pre-Seller,0.049,2022-01-06,Manual Paper
+210,Jesse Robinson,,Pre-Seller,0.059,2022-03-04,Manual Paper
+211,Raymond Murphy,Pamela Gonzalez,Van-Seller,0.031,2019-11-04,Mobile App
+212,Lori Coleman,Kyle Atkins,Van-Seller,0.031,2020-09-08,Mobile App
+213,Lisa James,Cynthia Reynolds,Van-Seller,0.011,2022-01-17,Manual Paper
+214,Peter Johnston,Kelly Carr,Key Account Manager,0.059,2020-11-06,Manual Paper
+215,Lonnie Johnson,Kevin Fisher,Key Account Manager,0.046,2022-01-28,Manual Paper
+216,Patricia Bryan,Timothy Lewis,Key Account Manager,0.04,2022-10-29,Handheld PDA
+217,Jason Holland,Dr. April Pratt DVM,Van-Seller,0.036,2022-09-26,Mobile App
+218,Timothy Lee,Jill Johnson,Van-Seller,0.049,2020-03-22,Handheld PDA
+219,Matthew Martin,Linda Parker,Van-Seller,0.027,2021-04-13,Handheld PDA
+220,Robert Wright,Kristen Cortez,Pre-Seller,0.057,2021-02-04,Mobile App
+221,Stephanie Weaver,Gordon Wise,Key Account Manager,0.05,2019-08-18,Mobile App
+222,Karen Austin,Sydney Spencer,Van-Seller,0.042,2021-08-30,Manual Paper
+223,Anthony Drake,Joshua Donaldson,Key Account Manager,0.021,2019-07-12,Handheld PDA
+224,Pamela Brewer,Heather Bowen,Van-Seller,0.052,2022-05-07,Handheld PDA
+225,Melissa Foster,,Pre-Seller,0.046,2020-06-04,Manual Paper
+226,Kari Greene,Rodney Lopez,Pre-Seller,0.014,2022-07-23,Handheld PDA
+227,Kristina Stone,Sarah Lee,Pre-Seller,0.031,2022-05-24,Manual Paper
+228,Norma Williams,Nicholas Merritt,Van-Seller,0.025,2021-07-02,Mobile App
+229,Brian Wong MD,Leslie Thomas,Van-Seller,0.02,2020-10-06,Handheld PDA
+230,Lisa Howell,Samuel Pollard,Key Account Manager,0.042,2021-12-12,Handheld PDA
+231,Jill Ballard,Daniel Barrett,Van-Seller,0.046,2020-09-24,Handheld PDA
+232,Zachary Mcgee,Thomas Soto,Van-Seller,0.038,2022-08-05,Mobile App
+233,Mike Lopez,Lori Ward,Key Account Manager,0.049,2019-11-24,Manual Paper
+234,Michael Singleton,Jason Schneider,Van-Seller,0.025,2022-11-09,Mobile App
+235,Brandon Franco,Monica Steele,Van-Seller,0.045,2019-09-30,Handheld PDA
+236,Dustin Keller,Joan Mcintosh,Van-Seller,0.054,2020-09-27,Mobile App
+237,Adrian Williams,Roy Gomez,Pre-Seller,0.033,2019-03-17,Mobile App
+238,Kathleen Harris,Jennifer Hinton,Van-Seller,0.021,2022-08-26,Handheld PDA
+239,Randy Johnson,Daniel Peterson,Pre-Seller,0.034,2020-08-14,Handheld PDA
+240,Robert James,,Van-Seller,0.059,2020-07-11,Handheld PDA
+241,Matthew Becker,Dalton Cox,Van-Seller,0.059,2018-12-16,Handheld PDA
+242,Kyle Moore,Christina Stout,Van-Seller,0.049,2021-09-16,Handheld PDA
+243,Lori Avery,Dr. Jerry Rodriguez,Van-Seller,0.048,2022-09-18,Mobile App
+244,Sheila Reed,Joshua Marsh,Key Account Manager,0.034,2022-02-22,Handheld PDA
+245,Colleen Rivas,Casey Long,Pre-Seller,0.021,2022-03-01,Handheld PDA
+246,Paul Larson,Sharon Young,Pre-Seller,0.033,2021-07-07,Mobile App
+247,Maxwell Johnson,Savannah Allen,Pre-Seller,0.018,2021-10-15,Handheld PDA
+248,Erica Blair,Lucas Jackson,Van-Seller,0.011,2021-01-10,Handheld PDA
+249,Bryan Wright,James Miller,Van-Seller,0.024,2021-04-25,Mobile App
+250,James Payne,Andrew Smith,Pre-Seller,0.031,2021-05-27,Mobile App
